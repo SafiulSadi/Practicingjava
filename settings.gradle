@@ -1,0 +1,5 @@
+include ':bmicalculator'
+include ':couldthisbelove'
+include ':javapractice'
+include ':app'
+rootProject.name = "Beginningjava"
